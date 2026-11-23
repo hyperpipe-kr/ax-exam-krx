@@ -1,0 +1,7 @@
+# macOS Finder metadata (all folders)
+.DS_Store
+
+# Local vault settings and session state
+/.obsidian/
+/.claudian/
+/.bkit/
